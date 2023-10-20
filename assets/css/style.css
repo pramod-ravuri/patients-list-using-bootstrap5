@@ -1,0 +1,26 @@
+body {
+  overflow-x: hidden;
+}
+.ms-n5 {
+  margin-left: -40px;
+}
+#page img {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+}
+#patients a {
+  color: #000;
+  text-decoration: none;
+}
+#patients a h5 {
+  font-size: 16px;
+  text-transform: capitalize;
+}
+#patient-lists {
+  text-transform: capitalize;
+}
+#patient-lists h3 {
+  font-size: 20px;
+  margin-bottom: 0;
+}
